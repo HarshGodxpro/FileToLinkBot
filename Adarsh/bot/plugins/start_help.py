@@ -129,7 +129,7 @@ async def help_handler(bot, message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [InlineKeyboardButton("💁‍♂️ Owner", url="https://github.com/HarshGodxpro")],
-                [InlineKeyboardButton("💥 Source Code", url="https://github.com/LazyDeveloperr/Lazy-Streamer-BOT")]
+                [InlineKeyboardButton("💥 Source Code", url="https://github.com/HarshGodxpro/FileToLinkBot")]
             ]
         )
     )
